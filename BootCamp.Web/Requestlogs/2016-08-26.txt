@@ -1,0 +1,7 @@
+2016-08-26 11:32:12.7282 INFO 63607807932720226712 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-26 11:32:14.5841 INFO 63607807932720226712 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":true,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6InNhbXBsZSBzdHJpbmcgMSBzYW1wbGUgc3RyaW5nIDIiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjEyMzQ1Njc4IiwiY2VydHNlcmlhbG51bWJlciI6Ijc3IiwiaXNzIjoiQm9vdENhbXAuR3JvdXBpZSIsImF1ZCI6Imh0dHA6Ly83OC40Ni40MS41OTo4MDgxL2FwaSIsImV4cCI6MTQ3MjI3OTUzNCwibmJmIjoxNDcyMTkzMTM0fQ.vJfqVDMHE4qlxoGIgp7Pswzt72B_EqFrIKI9IOCskxU","ImageUrl":"http://localhost:2108/UserImages/sample string 3","Message":"Logged in."}

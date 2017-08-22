@@ -6,7 +6,7 @@ using System.Web.Http.ModelBinding;
 
 namespace BootCamp.Web.Helpers
 {
-    public static class ModelStateHelpers
+    public static class ErrorHelpers
     {
         public static List<string> ModelStateErrors(ModelStateDictionary modelState)
         {
@@ -19,6 +19,12 @@ namespace BootCamp.Web.Helpers
                 }
             }
             return errors;
-        } 
+        }
+        public static List<string> StringError(string error)
+        {
+            var errors = new List<string>();
+            errors.Add(error);
+            return errors;
+        }
     }
 }

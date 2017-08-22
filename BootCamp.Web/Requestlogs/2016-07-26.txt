@@ -1,0 +1,24 @@
+2016-07-26 15:08:30.6067 INFO 6360514251059970068 - Request: POST http://localhost:2108/api/User/SyncContacts
+{
+  "UserContacts": [
+    {
+      "Name": "sample string 1",
+      "PhoneNumber": "sample string 2"
+    },
+    {
+      "Name": "sample string 1",
+      "PhoneNumber": "sample string 2"
+    }
+  ]
+}
+2016-07-26 15:08:31.1936 INFO 6360514251059970068 - Response: POST http://localhost:2108/api/User/SyncContacts
+{"AppUsers":[],"OtherUsers":[{"Name":"sample string 1","PhoneNumber":"sample string 2"},{"Name":"sample string 1","PhoneNumber":"sample string 2"}],"Message":null}
+2016-07-26 20:33:17.0193 INFO 63605161997015285913 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamps?PageNumber=0&PageSize=2
+
+2016-07-26 20:36:17.2920 INFO 6360516217728706037 - Request: POST http://localhost:2108/api/BootCamp/GetBootCamps?PageNumber=0&PageSize=2
+{
+  "PageNumber": 0,
+  "PageSize": 2
+}
+2016-07-26 20:36:17.8292 INFO 6360516217728706037 - Response: POST http://localhost:2108/api/BootCamp/GetBootCamps?PageNumber=0&PageSize=2
+{"TotalRecord":0,"BootCamps":[]}

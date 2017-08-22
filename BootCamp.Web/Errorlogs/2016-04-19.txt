@@ -1,0 +1,35 @@
+2016-04-19 16:29:39.5940 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BootCamp.Web.Handler.MessageHandler.<SendAsync>d__0.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\MessageHandler.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at BootCamp.Web.Handler.JwtHandler.<SendAsync>d__2.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\JwtHandler.cs:line 58
+2016-04-19 16:31:04.3381 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BootCamp.Web.Handler.MessageHandler.<SendAsync>d__0.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\MessageHandler.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at BootCamp.Web.Handler.JwtHandler.<SendAsync>d__2.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\JwtHandler.cs:line 58
+2016-04-19 16:36:26.2905 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BootCamp.Web.Handler.MessageHandler.<SendAsync>d__0.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\MessageHandler.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at BootCamp.Web.Handler.JwtHandler.<SendAsync>d__2.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\JwtHandler.cs:line 58
+2016-04-19 16:38:46.6826 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BootCamp.Web.Handler.MessageHandler.<SendAsync>d__0.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\MessageHandler.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at BootCamp.Web.Handler.JwtHandler.<SendAsync>d__2.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\JwtHandler.cs:line 58
+2016-04-19 16:40:11.3528 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BootCamp.Web.Handler.MessageHandler.<SendAsync>d__0.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\MessageHandler.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at BootCamp.Web.Handler.JwtHandler.<SendAsync>d__2.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\JwtHandler.cs:line 58

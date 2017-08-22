@@ -117,11 +117,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AccountAlreadyVerifiedError" xml:space="preserve">
+    <value>Account is already verified.</value>
+  </data>
   <data name="AccountCreated" xml:space="preserve">
     <value>User account created.</value>
   </data>
+  <data name="AccountVerified" xml:space="preserve">
+    <value>User account verified.</value>
+  </data>
   <data name="AccountVerifyError" xml:space="preserve">
     <value>Account Verification Pending.</value>
+  </data>
+  <data name="BicepsError" xml:space="preserve">
+    <value>Biceps are required.</value>
+  </data>
+  <data name="BootCampAboutLengthError" xml:space="preserve">
+    <value>Bootcamp Description cannot be greater than 250</value>
+  </data>
+  <data name="BootCampCreated" xml:space="preserve">
+    <value>BootCamp Created Successfully.</value>
+  </data>
+  <data name="BootcampError1" xml:space="preserve">
+    <value>You have created another bootcamp falling in these dates.</value>
+  </data>
+  <data name="BootCampNameLengthError" xml:space="preserve">
+    <value>Bootcamp name cannot be greater than 100</value>
+  </data>
+  <data name="BootCampStartDayError" xml:space="preserve">
+    <value>Bootcamp can only be started on Sunday.</value>
+  </data>
+  <data name="ChestError" xml:space="preserve">
+    <value>Chest is required.</value>
   </data>
   <data name="EmailExistsError" xml:space="preserve">
     <value>Email Address already exists.</value>
@@ -135,11 +162,29 @@
   <data name="EmailNotExistError" xml:space="preserve">
     <value>Email not found.</value>
   </data>
+  <data name="EmailSendingError" xml:space="preserve">
+    <value>Unable to send email.</value>
+  </data>
+  <data name="GoalWeightError" xml:space="preserve">
+    <value>Goal Weight is required.</value>
+  </data>
+  <data name="HeightError" xml:space="preserve">
+    <value>Height is required.</value>
+  </data>
+  <data name="HipsError" xml:space="preserve">
+    <value>Hips are required.</value>
+  </data>
   <data name="LengthError500" xml:space="preserve">
     <value>Length exceeds 500 character limit.</value>
   </data>
   <data name="LoginCredentialsError" xml:space="preserve">
     <value>Invalid Email or Password.</value>
+  </data>
+  <data name="LoginSuccess" xml:space="preserve">
+    <value>Logged in.</value>
+  </data>
+  <data name="MeasurementError" xml:space="preserve">
+    <value>Measurements are required</value>
   </data>
   <data name="PasswordLengthError" xml:space="preserve">
     <value>Password needs to be between 6 to 20 characters in length.</value>
@@ -149,5 +194,20 @@
   </data>
   <data name="PhoneNoError" xml:space="preserve">
     <value>Invalid Phone No.</value>
+  </data>
+  <data name="ThighsError" xml:space="preserve">
+    <value>Thighs are required.</value>
+  </data>
+  <data name="UpperArmError" xml:space="preserve">
+    <value>UpperArm is required.</value>
+  </data>
+  <data name="WaistError" xml:space="preserve">
+    <value>Waist is required.</value>
+  </data>
+  <data name="WeightError" xml:space="preserve">
+    <value>Weight is required.</value>
+  </data>
+  <data name="Exception" xml:space="preserve">
+    <value>A fatal error occured on server. We are working to resolve the issue.</value>
   </data>
 </root>

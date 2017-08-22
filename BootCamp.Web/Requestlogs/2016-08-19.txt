@@ -1,0 +1,70 @@
+2016-08-19 20:08:18.5250 INFO 63607234098522089412 - Request: POST http://localhost:2108/api/User/SyncContacts
+[
+  {
+    "Name" : "John Appleseed",
+    "PhoneNumber" : "8885555512"
+  },
+  {
+    "Name" : "Kate Bell",
+    "PhoneNumber" : "5555648583"
+  },
+  {
+    "Name" : "Anna Haro",
+    "PhoneNumber" : "5555228243"
+  },
+  {
+    "Name" : "Daniel Higgins",
+    "PhoneNumber" : "5554787672"
+  },
+  {
+    "Name" : "Mohsin ",
+    "PhoneNumber" : "3088955166"
+  },
+  {
+    "Name" : "David Taylor",
+    "PhoneNumber" : "5556106679"
+  },
+  {
+    "Name" : "Hank Zakroff",
+    "PhoneNumber" : "5557664823"
+  }
+]
+2016-08-19 20:08:52.3738 INFO 63607234098522089412 - Response: POST http://localhost:2108/api/User/SyncContacts
+Internal Server Error
+2016-08-19 20:09:46.1553 INFO 63607234186154362219 - Request: POST http://localhost:2108/api/User/SyncContacts
+{
+  "UserContacts": [
+
+
+  {
+    "Name" : "John Appleseed",
+    "PhoneNumber" : "8885555512"
+  },
+  {
+    "Name" : "Kate Bell",
+    "PhoneNumber" : "5555648583"
+  },
+  {
+    "Name" : "Anna Haro",
+    "PhoneNumber" : "5555228243"
+  },
+  {
+    "Name" : "Daniel Higgins",
+    "PhoneNumber" : "5554787672"
+  },
+  {
+    "Name" : "Mohsin ",
+    "PhoneNumber" : "3088955166"
+  },
+  {
+    "Name" : "David Taylor",
+    "PhoneNumber" : "5556106679"
+  },
+  {
+    "Name" : "Hank Zakroff",
+    "PhoneNumber" : "5557664823"
+  }
+]
+}
+2016-08-19 20:09:53.6666 INFO 63607234186154362219 - Response: POST http://localhost:2108/api/User/SyncContacts
+{"AppUsers":[],"OtherUsers":[{"Id":0,"Name":"John Appleseed","PhoneNumber":"8885555512"},{"Id":0,"Name":"Kate Bell","PhoneNumber":"5555648583"},{"Id":0,"Name":"Anna Haro","PhoneNumber":"5555228243"},{"Id":0,"Name":"Daniel Higgins","PhoneNumber":"5554787672"},{"Id":0,"Name":"Mohsin ","PhoneNumber":"3088955166"},{"Id":0,"Name":"David Taylor","PhoneNumber":"5556106679"},{"Id":0,"Name":"Hank Zakroff","PhoneNumber":"5557664823"}],"Message":null}

@@ -1,0 +1,82 @@
+2016-07-25 11:43:05.9719 INFO 6360504378595601328 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01",
+  "PhoneNumber": "11111111"
+}
+2016-07-25 11:43:19.4365 INFO 6360504378595601328 - Response: POST http://localhost:2108/api/User/RegisterUser
+Bad Request
+2016-07-25 11:43:39.7075 INFO 6360504381970754397 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@hotmai1l.com",
+  "Password": "nadeem01",
+  "PhoneNumber": "11111111"
+}
+2016-07-25 11:43:43.4606 INFO 6360504381970754397 - Response: POST http://localhost:2108/api/User/RegisterUser
+Bad Request
+2016-07-25 11:44:35.0125 INFO 63605043875012568526 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar1@hotmail.com",
+  "Password": "nadeem01",
+  "PhoneNumber": "11111111"
+}
+2016-07-25 11:44:41.6803 INFO 63605043875012568526 - Response: POST http://localhost:2108/api/User/RegisterUser
+Bad Request
+2016-07-25 11:45:10.4075 INFO 63605043910407523538 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar1@hotmail.com",
+  "Password": "nadeem01",
+  "PhoneNumber": "11111111"
+}
+2016-07-25 11:45:45.9351 INFO 63605043910407523538 - Response: POST http://localhost:2108/api/User/RegisterUser
+Bad Request
+2016-07-25 15:53:34.9046 INFO 63605058814900887310 - Request: POST http://localhost:2108/api/User/SyncContacts
+[
+  {
+    "Name": "sample string 1",
+    "PhoneNumber": "sample string 2"
+  },
+  {
+    "Name": "sample string 1",
+    "PhoneNumber": "sample string 2"
+  }
+]
+2016-07-25 15:53:34.9740 INFO 63605058814900887310 - Response: POST http://localhost:2108/api/User/SyncContacts
+Unauthorized
+2016-07-25 15:55:18.7044 INFO 63605058918700487012 - Request: POST http://localhost:2108/api/User/SyncContacts
+[
+  {
+    "Name": "sample string 1",
+    "PhoneNumber": "sample string 2"
+  },
+  {
+    "Name": "sample string 1",
+    "PhoneNumber": "sample string 2"
+  }
+]
+2016-07-25 15:56:40.1402 INFO 63605059000137203613 - Request: POST http://localhost:2108/api/User/SyncContacts
+[
+  {
+    "Name": "sample string 1",
+    "PhoneNumber": "sample string 2"
+  },
+  {
+    "Name": "sample string 1",
+    "PhoneNumber": "sample string 2"
+  }
+]
+2016-07-25 15:56:40.6935 INFO 63605059000137203613 - Response: POST http://localhost:2108/api/User/SyncContacts
+{"AppUsers":[],"OtherUsers":[{"Name":"sample string 1","PhoneNumber":"sample string 2"},{"Name":"sample string 1","PhoneNumber":"sample string 2"}],"Message":null}
+2016-07-25 15:57:21.5749 INFO 6360505904157445728 - Request: POST http://localhost:2108/api/User/SyncContacts
+[
+  {
+    "Name": "sample string 1",
+    "PhoneNumber": "sample string 2"
+  },
+  {
+    "Name": "sample string 1",
+    "PhoneNumber": "12232323"
+  }
+]
+2016-07-25 15:57:21.5749 INFO 6360505904157445728 - Response: POST http://localhost:2108/api/User/SyncContacts
+{"AppUsers":[{"Name":"sample string 1","PhoneNumber":"12232323"}],"OtherUsers":[{"Name":"sample string 1","PhoneNumber":"sample string 2"}],"Message":null}

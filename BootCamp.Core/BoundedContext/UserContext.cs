@@ -15,6 +15,30 @@ namespace BootCamp.Core.BoundedContext
             get;
             set;
         }
+        public IDbSet<Measurement> Measurements
+        {
+            get;
+            set;
+        }
+
+        public IDbSet<BootCampSummary> BootCampSummarys
+        {
+            get;
+            set;
+        }
+
+        public IDbSet<UserBootCamp> UserBootCamps
+        {
+            get;
+            set;
+        }
+
+        public IDbSet<UserNotificationSetting> UserNotificationSettings
+        {
+            get;
+            set;
+        }
+
         public override int SaveChanges()
         {
             this.ApplyStateChanges();
@@ -24,7 +48,7 @@ namespace BootCamp.Core.BoundedContext
         {
             Entry(entity).State = EntityState.Added;
         }
-        
+
         public void SetModified(object entity)
         {
             Entry(entity).State = EntityState.Modified;

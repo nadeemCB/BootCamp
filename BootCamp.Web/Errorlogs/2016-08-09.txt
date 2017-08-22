@@ -1,0 +1,7 @@
+2016-08-09 17:01:46.9947 ERROR System.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '08/09/2016 08:09:12'
+Current time: '08/09/2016 12:01:46'.
+   at System.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in c:\workspace\WilsonForDotNet45Release\src\System.IdentityModel.Tokens.Jwt\Validators.cs:line 219
+   at System.IdentityModel.Tokens.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in c:\workspace\WilsonForDotNet45Release\src\System.IdentityModel.Tokens.Jwt\JwtSecurityTokenHandler.cs:line 1192
+   at System.IdentityModel.Tokens.JwtSecurityTokenHandler.ValidateToken(String securityToken, TokenValidationParameters validationParameters, SecurityToken& validatedToken) in c:\workspace\WilsonForDotNet45Release\src\System.IdentityModel.Tokens.Jwt\JwtSecurityTokenHandler.cs:line 702
+   at BootCamp.Web.Handler.JwtHandler.<SendAsync>d__2.MoveNext() in C:\CBProjects\BootCamp\BootCamp\BootCamp.Web\Handler\JwtHandler.cs:line 49

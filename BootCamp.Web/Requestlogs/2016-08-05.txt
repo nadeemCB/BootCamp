@@ -1,0 +1,406 @@
+2016-08-05 13:06:10.5243 INFO 63605999170520010118 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T13:04:14.2380149+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "sample string 3"
+    },
+    {
+      "Id": 2,
+      "Name": "sample string 2",
+      "PhoneNumber": "sample string 3"
+    }
+  ]
+}
+2016-08-05 13:06:10.6213 INFO 63605999170520010118 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Unauthorized
+2016-08-05 14:53:16.5736 INFO 6360600559656966238 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234",
+  "PhoneNumber": "nadeem01"
+}
+2016-08-05 14:53:16.8185 INFO 6360600559656966238 - Response: POST http://localhost:2108/api/User/RegisterUser
+Bad Request
+2016-08-05 14:54:14.1399 INFO 63606005654138976312 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234",
+  "PhoneNumber": "123456789"
+}
+2016-08-05 14:54:14.8103 INFO 63606005654138976312 - Response: POST http://localhost:2108/api/User/RegisterUser
+{"Message":"User account created."}
+2016-08-05 14:57:09.5582 INFO 6360600582955827308 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@citrusbits.com",
+  "Password": "abcd1234",
+  "PhoneNumber": "123456788"
+}
+2016-08-05 14:57:09.5792 INFO 6360600582955827308 - Response: POST http://localhost:2108/api/User/RegisterUser
+{"Message":"User account created."}
+2016-08-05 14:57:23.1135 INFO 6360600584311352747 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@gmail.com",
+  "Password": "abcd1234",
+  "PhoneNumber": "123456588"
+}
+2016-08-05 14:57:23.1285 INFO 6360600584311352747 - Response: POST http://localhost:2108/api/User/RegisterUser
+{"Message":"User account created."}
+2016-08-05 14:58:18.3472 INFO 63606005898346204120 - Request: POST http://localhost:2108/api/User/VerifyUser
+{
+  "Email": "nadeem.khawar@gmail.com"
+}
+2016-08-05 14:58:18.3992 INFO 63606005898346204120 - Response: POST http://localhost:2108/api/User/VerifyUser
+{"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IiAiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAZ21haWwuY29tIiwiY2VydHNlcmlhbG51bWJlciI6IjE5IiwiaXNzIjoiQm9vdENhbXAuR3JvdXBpZSIsImF1ZCI6Imh0dHA6Ly83OC40Ni40MS41OTo4MDgxL2FwaSIsImV4cCI6MTQ3MDQ3NzQ5OCwibmJmIjoxNDcwMzkxMDk4fQ.tL8r9BbwaZI4Asth7l-aqG6OByMAFr97CUGYMMdzQ9Q","Message":"User account verified."}
+2016-08-05 14:58:30.2256 INFO 63606005910225654113 - Request: POST http://localhost:2108/api/User/VerifyUser
+{
+  "Email": "nadeem.khawar@hotmail.com"
+}
+2016-08-05 14:58:30.2421 INFO 63606005910225654113 - Response: POST http://localhost:2108/api/User/VerifyUser
+{"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IiAiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMTciLCJpc3MiOiJCb290Q2FtcC5Hcm91cGllIiwiYXVkIjoiaHR0cDovLzc4LjQ2LjQxLjU5OjgwODEvYXBpIiwiZXhwIjoxNDcwNDc3NTEwLCJuYmYiOjE0NzAzOTExMTB9.ln6FSw8Z-NACNnJJgXhxbwJxsv6YuA76ku5837ZBmPo","Message":"User account verified."}
+2016-08-05 14:58:44.8094 INFO 63606005924809485014 - Request: POST http://localhost:2108/api/User/VerifyUser
+{
+  "Email": "nadeem.khawar@citrusbits.com"
+}
+2016-08-05 14:58:44.8245 INFO 63606005924809485014 - Response: POST http://localhost:2108/api/User/VerifyUser
+{"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IiAiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAY2l0cnVzYml0cy5jb20iLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMTgiLCJpc3MiOiJCb290Q2FtcC5Hcm91cGllIiwiYXVkIjoiaHR0cDovLzc4LjQ2LjQxLjU5OjgwODEvYXBpIiwiZXhwIjoxNDcwNDc3NTI0LCJuYmYiOjE0NzAzOTExMjR9.VwN-8kt9dioEqwPgUetoycL_Ffzd3u9lXWjdC9QOTkg","Message":"User account verified."}
+2016-08-05 15:01:25.9627 INFO 63606006085961750119 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@gmail.com",
+  "Password": "abcd1234"
+}
+2016-08-05 15:01:25.9747 INFO 63606006085961750119 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":false,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IiAiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAZ21haWwuY29tIiwiY2VydHNlcmlhbG51bWJlciI6IjE5IiwiaXNzIjoiQm9vdENhbXAuR3JvdXBpZSIsImF1ZCI6Imh0dHA6Ly83OC40Ni40MS41OTo4MDgxL2FwaSIsImV4cCI6MTQ3MDQ3NzY4NSwibmJmIjoxNDcwMzkxMjg1fQ.ZAstYIotnzbtqSDQq5VG3c4Ktny-ZqWa3NSab0qEnqo","ImageUrl":"","Message":"Logged in."}
+2016-08-05 15:02:29.5464 INFO 63606006149546407810 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-05 15:02:29.5544 INFO 63606006149546407810 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":false,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IiAiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMTciLCJpc3MiOiJCb290Q2FtcC5Hcm91cGllIiwiYXVkIjoiaHR0cDovLzc4LjQ2LjQxLjU5OjgwODEvYXBpIiwiZXhwIjoxNDcwNDc3NzQ5LCJuYmYiOjE0NzAzOTEzNDl9.D6N9FDeYsITld_6JgFgJ9TDH0y5bZbvdFrIZCiNhsho","ImageUrl":"","Message":"Logged in."}
+2016-08-05 15:03:07.9685 INFO 63606006187967577325 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@citrusbits.com",
+  "Password": "abcd1234"
+}
+2016-08-05 15:03:07.9755 INFO 63606006187967577325 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":false,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IiAiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAY2l0cnVzYml0cy5jb20iLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMTgiLCJpc3MiOiJCb290Q2FtcC5Hcm91cGllIiwiYXVkIjoiaHR0cDovLzc4LjQ2LjQxLjU5OjgwODEvYXBpIiwiZXhwIjoxNDcwNDc3Nzg3LCJuYmYiOjE0NzAzOTEzODd9.RYhXtLn8gjwU9CcSj3cJQLgMvk9mEpRJQK8EuQgPDd0","ImageUrl":"","Message":"Logged in."}
+2016-08-05 15:15:59.7599 INFO 63606006959759983065 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-08-05 15:15:59.8395 INFO 63606006959759983065 - Response: POST http://localhost:2108/api/User/CreateUserProfile
+{"Message":null}
+2016-08-05 15:16:21.9163 INFO 63606006981916313336 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-08-05 15:16:21.9323 INFO 63606006981916313336 - Response: POST http://localhost:2108/api/User/CreateUserProfile
+{"Message":null}
+2016-08-05 15:16:40.2056 INFO 63606007000205640028 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-08-05 15:16:40.2246 INFO 63606007000205640028 - Response: POST http://localhost:2108/api/User/CreateUserProfile
+{"Message":null}
+2016-08-05 15:20:35.2723 INFO 63606007235272303735 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 15:26:00.0189 INFO 63606007235272303735 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error
+2016-08-05 15:26:27.6211 INFO 63606007587621190468 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 15:26:42.5180 INFO 63606007587621190468 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error
+2016-08-05 15:26:46.7535 INFO 63606007606753551065 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 15:29:19.8951 INFO 6360600775989219827 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 15:31:06.7506 INFO 6360600775989219827 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error
+2016-08-05 15:33:17.5239 INFO 63606007997523971425 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 15:33:24.5969 INFO 63606007997523971425 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{"Id":1,"Message":"BootCamp Created Successfully."}
+2016-08-05 15:59:38.3749 INFO 6360600957837199298 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 15:59:50.9746 INFO 6360600957837199298 - Response: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{"Groupies":[{"Id":1,"FirstName":"Test first 1","LastName":"test last 1","ImageUrl":"wewe1"},{"Id":2,"FirstName":"Test first 2","LastName":"test last 2","ImageUrl":"wewe2"}],"InvitedGroupies":[{"Id":1,"FirstName":"Test first 1","LastName":"test last 1","ImageUrl":"wewe1"},{"Id":2,"FirstName":"Test first 2","LastName":"test last 2","ImageUrl":"wewe2"},{"Id":3,"FirstName":"Test first 3","LastName":"test last 3","ImageUrl":"wewe3"}],"Id":1,"Name":"sample string 1","About":"sample string 2","ImageUrl":"http://localhost:2108/BootImages/sample string 3","IsPrivate":false,"MemebersLimit":15,"RegisteredMemebers":0,"StartDate":"2016-08-07T00:00:00"}
+2016-08-05 15:59:59.2561 INFO 63606009599256122016 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 16:00:11.3115 INFO 63606009599256122016 - Response: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{"Groupies":[{"Id":1,"FirstName":"Test first 1","LastName":"test last 1","ImageUrl":"wewe1"},{"Id":2,"FirstName":"Test first 2","LastName":"test last 2","ImageUrl":"wewe2"}],"InvitedGroupies":[{"Id":1,"FirstName":"Test first 1","LastName":"test last 1","ImageUrl":"wewe1"},{"Id":2,"FirstName":"Test first 2","LastName":"test last 2","ImageUrl":"wewe2"},{"Id":3,"FirstName":"Test first 3","LastName":"test last 3","ImageUrl":"wewe3"}],"Id":1,"Name":"sample string 1","About":"sample string 2","ImageUrl":"http://localhost:2108/BootImages/sample string 3","IsPrivate":false,"MemebersLimit":15,"RegisteredMemebers":0,"StartDate":"2016-08-07T00:00:00"}
+2016-08-05 16:00:37.8083 INFO 6360600963780434789 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 16:01:18.3096 INFO 6360600963780434789 - Response: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{"Groupies":[{"Id":1,"FirstName":"Test first 1","LastName":"test last 1","ImageUrl":"wewe1"},{"Id":2,"FirstName":"Test first 2","LastName":"test last 2","ImageUrl":"wewe2"}],"InvitedGroupies":[{"Id":1,"FirstName":"Test first 1","LastName":"test last 1","ImageUrl":"wewe1"},{"Id":2,"FirstName":"Test first 2","LastName":"test last 2","ImageUrl":"wewe2"},{"Id":3,"FirstName":"Test first 3","LastName":"test last 3","ImageUrl":"wewe3"}],"Id":1,"Name":"sample string 1","About":"sample string 2","ImageUrl":"http://localhost:2108/BootImages/sample string 3","IsPrivate":false,"MemebersLimit":15,"RegisteredMemebers":0,"StartDate":"2016-08-07T00:00:00"}
+2016-08-05 16:21:44.7375 INFO 6360601090473460798 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 16:24:35.3771 INFO 6360601107537520758 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 16:37:18.7954 INFO 6360601183879296137 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 16:54:46.9278 INFO 63606012886925876114 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-08-07T15:17:50.1046243+00:00",
+  "IsPrivate": false,
+  "InvitedUser": [
+    {
+      "Id": 1,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456789"
+    },
+    {
+      "Id": 3,
+      "Name": "sample string 2",
+      "PhoneNumber": "123456588"
+    }
+  ]
+}
+2016-08-05 16:56:13.1756 INFO 63606012886925876114 - Response: GET http://localhost:2108/api/BootCamp/GetBootCamp?id=1
+{"Groupies":null,"InvitedGroupies":[{"Id":1,"FirstName":"sample string 1","LastName":"sample string 2","ImageUrl":"http://localhost:2108/BootImages/sample string 3"},{"Id":2,"FirstName":"sample string 1","LastName":"sample string 2","ImageUrl":"http://localhost:2108/BootImages/sample string 3"}],"Id":1,"Name":"sample string 1","About":"sample string 2","ImageUrl":"http://localhost:2108/BootImages/sample string 3","IsPrivate":false,"MemebersLimit":15,"RegisteredMemebers":0,"StartDate":"2016-08-07T00:00:00"}

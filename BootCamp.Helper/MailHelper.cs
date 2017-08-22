@@ -41,16 +41,17 @@ namespace BootCamp.Helper
 
         public void Send()
         {
+            MailMessage message = null;
+            SmtpClient smtp = null;
+            Attachment att = null;
             try
             {
-                // We do not catch the error here... let it pass direct to the caller
-                Attachment att = null;
-                var message = new MailMessage(_sender, Recipient, Subject, Body) { IsBodyHtml = true };
+                message = new MailMessage(_sender, Recipient, Subject, Body) { IsBodyHtml = true };
                 if (RecipientCC != null)
                 {
                     message.CC.Add(RecipientCC);
                 }
-                var smtp = new SmtpClient(_host, _port);
+                smtp = new SmtpClient(_host, _port);
 
                 if (!String.IsNullOrEmpty(AttachmentFile))
                 {
@@ -65,20 +66,25 @@ namespace BootCamp.Helper
                 {
                     smtp.UseDefaultCredentials = false;
                     smtp.Credentials = new NetworkCredential(_user, _pass);
+                    smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
                     smtp.EnableSsl = _ssl;
                 }
 
                 smtp.Send(message);
-
-                if (att != null)
-                    att.Dispose();
-                message.Dispose();
-                smtp.Dispose();
             }
 
             catch (Exception ex)
             {
-
+                throw ex;
+            }
+            finally
+            {
+                if(message!=null)
+                    message.Dispose();
+                if(smtp !=null)
+                    smtp.Dispose();
+                if (att != null)
+                    att.Dispose();
             }
         }
     }

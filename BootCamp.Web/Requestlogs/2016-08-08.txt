@@ -1,0 +1,57 @@
+2016-08-08 13:09:12.0916 INFO 6360625855208560727 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-08 13:09:12.6489 INFO 6360625855208560727 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":true,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6InNhbXBsZSBzdHJpbmcgMSBzYW1wbGUgc3RyaW5nIDIiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMTciLCJpc3MiOiJCb290Q2FtcC5Hcm91cGllIiwiYXVkIjoiaHR0cDovLzc4LjQ2LjQxLjU5OjgwODEvYXBpIiwiZXhwIjoxNDcwNzMwMTUyLCJuYmYiOjE0NzA2NDM3NTJ9.1MA7dKYsnDEAPhiP3Xkz9vcafksTRcdzshRn37nz5Ek","ImageUrl":"http://localhost:2108/UserImages/sample string 3","Message":"Logged in."}
+2016-08-08 13:09:40.3201 INFO 63606258580320181815 - Request: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+{
+  "Id": 1
+}
+2016-08-08 13:10:02.9502 INFO 63606258580320181815 - Response: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+Internal Server Error
+2016-08-08 13:11:00.9128 INFO 63606258660909818213 - Request: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+{
+  "Id": 1
+}
+2016-08-08 13:11:16.0987 INFO 63606258660909818213 - Response: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+Internal Server Error
+2016-08-08 13:13:01.7882 INFO 63606258781785231012 - Request: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+{
+  "Id": 1
+}
+2016-08-08 13:13:13.2832 INFO 63606258781785231012 - Response: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+Internal Server Error
+2016-08-08 13:13:40.6315 INFO 63606258820631506416 - Request: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+{
+  "Id": 1
+}
+2016-08-08 13:14:02.8743 INFO 63606258820631506416 - Response: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+Internal Server Error
+2016-08-08 13:15:44.3393 INFO 63606258944336327810 - Request: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+{
+  "Id": 1
+}
+2016-08-08 13:16:03.5160 INFO 63606258944336327810 - Response: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+{"Message":"Joined bootcamp"}
+2016-08-08 13:17:55.0128 INFO 6360625907501033939 - Request: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+{
+  "Id": 1
+}
+2016-08-08 13:18:11.0729 INFO 6360625907501033939 - Response: POST http://localhost:2108/api/BootCamp/JoinBootcamp
+Internal Server Error
+2016-08-08 15:48:58.8775 INFO 6360626813887479826 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-08 15:50:25.6410 INFO 63606268225637657312 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-08 15:51:31.7676 INFO 6360626829176570918 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-08 15:51:34.0360 INFO 6360626829176570918 - Response: GET http://localhost:2108/api/User/GetUserInfo
+{"FirstName":"sample string 1","LastName":"sample string 2","ProfileImage":"http://localhost:2108/UserImages/sample string 3","BootCamp":{"Id":1,"IsOwner":false,"Started":true,"StartDate":"2016-08-07T00:00:00"}}

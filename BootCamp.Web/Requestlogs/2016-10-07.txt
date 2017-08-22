@@ -1,0 +1,6 @@
+2016-10-07 11:21:05.3311 INFO 63611436065323767315 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-07 11:21:47.7509 INFO 63611436065323767315 - Response: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{"Message":"Removed from bootcamp."}

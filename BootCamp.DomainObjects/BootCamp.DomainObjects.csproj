@@ -41,13 +41,46 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BlockedUser.cs" />
+    <Compile Include="BootCampActivity\BootCamp.cs" />
+    <Compile Include="BootCampActivity\BootCampUser.cs" />
+    <Compile Include="BootCampActivity\BootCampUserActivity.cs" />
+    <Compile Include="BootCampActivity\BootCampUserActivityDetail.cs" />
+    <Compile Include="BootCampActivity\BootCampUserDetail.cs" />
+    <Compile Include="BootCampSummary.cs" />
+    <Compile Include="BootCamp\ActivityLog.cs" />
+    <Compile Include="BootCamp\BootCamp.cs" />
+    <Compile Include="BootCamp\BootCampInvitedUsers.cs" />
+    <Compile Include="BootCamp\BootCampReport.cs" />
+    <Compile Include="BootCamp\BootCampUser.cs" />
+    <Compile Include="BootCamp\BootCampUserDetail.cs" />
+    <Compile Include="BootCamp\BootCampUserNotifications.cs" />
+    <Compile Include="BootCamp\Exercise.cs" />
+    <Compile Include="BootCamp\FavoriteRecipe.cs" />
+    <Compile Include="BootCamp\Meal.cs" />
+    <Compile Include="BootCamp\Recipe.cs" />
+    <Compile Include="BootCamp\RecipeIngredient.cs" />
+    <Compile Include="BootCamp\RecipeInstruction.cs" />
+    <Compile Include="BootCamp\WeeklyCheckIn.cs" />
+    <Compile Include="BootCamp\Workout.cs" />
+    <Compile Include="Grocery\GroceryCategory.cs" />
+    <Compile Include="Grocery\GroceryItem.cs" />
+    <Compile Include="Measurement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
+    <Compile Include="UserBootCamp.cs" />
+    <Compile Include="UserContacts.cs" />
+    <Compile Include="UserNotification.cs" />
+    <Compile Include="UserNotificationSetting.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BootCamp.ObjectInterfaces\BootCamp.ObjectInterfaces.csproj">
       <Project>{14bbc8e0-b906-4024-97e7-92b94683a7ad}</Project>
       <Name>BootCamp.ObjectInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BootCamp.Utils\BootCamp.Utils.csproj">
+      <Project>{04f4eb59-b58e-4b22-a75b-5e624e88242f}</Project>
+      <Name>BootCamp.Utils</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -70,10 +70,74 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutoMapperConfiguration.cs" />
+    <Compile Include="DTO\BlockUserRequest.cs" />
+    <Compile Include="DTO\Bootcamp.cs" />
+    <Compile Include="DTO\BootCampCreateResponse.cs" />
+    <Compile Include="DTO\BootCampInvite.cs" />
+    <Compile Include="DTO\ChangeDifficultyLevelRequest.cs" />
+    <Compile Include="DTO\CompletedBootcampResponse.cs" />
+    <Compile Include="DTO\DeleteNotificationRequest.cs" />
+    <Compile Include="DTO\ExercisesByLevelResponse.cs" />
+    <Compile Include="DTO\GroceryListResponse.cs" />
+    <Compile Include="DTO\LogActivityResponse.cs" />
+    <Compile Include="DTO\MissedMealResponse.cs" />
+    <Compile Include="DTO\NewPasswordResponse.cs" />
+    <Compile Include="DTO\RegisterUserResponse.cs" />
+    <Compile Include="DTO\ReportBootcampRequest.cs" />
+    <Compile Include="DTO\UserBootCampDaySummaryResponse.cs" />
+    <Compile Include="DTO\BootCampDetail.cs" />
+    <Compile Include="DTO\BootCampFeedResponse.cs" />
+    <Compile Include="DTO\BootcampListDto.cs" />
+    <Compile Include="DTO\BootcampsRequest.cs" />
+    <Compile Include="DTO\BootCampUser.cs" />
+    <Compile Include="DTO\ChangeEmailRequest.cs" />
+    <Compile Include="DTO\ChangeMealPlanRequest.cs" />
+    <Compile Include="DTO\ChangePasswordRequest.cs" />
+    <Compile Include="DTO\CreateBootCampRequest.cs" />
+    <Compile Include="DTO\DeleteBootCampRequest.cs" />
+    <Compile Include="DTO\EditBootCamp.cs" />
     <Compile Include="DTO\ErrorResponse.cs" />
+    <Compile Include="DTO\FavoriteRecipieListResponse.cs" />
+    <Compile Include="DTO\FileUploadResponse.cs" />
     <Compile Include="DTO\ForgotPassword.cs" />
+    <Compile Include="DTO\GeneralSettingsResponse.cs" />
+    <Compile Include="DTO\GetMealPlanRequest.cs" />
+    <Compile Include="DTO\JoinBootCampRequest.cs" />
+    <Compile Include="DTO\LeaveBootCampRequest.cs" />
+    <Compile Include="DTO\LoginErrorResponse.cs" />
+    <Compile Include="DTO\LoginResponse.cs" />
+    <Compile Include="DTO\LogActivityRequest.cs" />
+    <Compile Include="DTO\LogWeeklyWeightRequest.cs" />
+    <Compile Include="DTO\MarkRecipieRequest.cs" />
+    <Compile Include="DTO\Measurement.cs" />
+    <Compile Include="DTO\Notification.cs" />
+    <Compile Include="DTO\NotificationResponse.cs" />
+    <Compile Include="DTO\PaymentRequest.cs" />
+    <Compile Include="DTO\PostmanCollection.cs" />
+    <Compile Include="DTO\PostmanRequest.cs" />
+    <Compile Include="DTO\SuccessResponse.cs" />
+    <Compile Include="DTO\SyncUserRequest.cs" />
+    <Compile Include="DTO\TokenResponse.cs" />
+    <Compile Include="DTO\UserBootCamp.cs" />
+    <Compile Include="DTO\UserContactsDto.cs" />
+    <Compile Include="DTO\UserContactsResponse.cs" />
+    <Compile Include="DTO\UserContactsResponseDto.cs" />
     <Compile Include="DTO\UserLogin.cs" />
+    <Compile Include="DTO\UserNotificationSettingRequest.cs" />
+    <Compile Include="DTO\UserNotificationSettingResponse.cs" />
+    <Compile Include="DTO\UserProfile.cs" />
+    <Compile Include="DTO\UserProfileResponse.cs" />
     <Compile Include="DTO\UserRegisteration.cs" />
+    <Compile Include="DTO\UserResponse.cs" />
+    <Compile Include="DTO\UserUpdateRequest.cs" />
+    <Compile Include="DTO\UserVitalStatistics.cs" />
+    <Compile Include="DTO\VerifyUser.cs" />
+    <Compile Include="DTO\WeeklyCheckinStatusResponse.cs" />
+    <Compile Include="DTO\WorkoutStatusResponse.cs" />
+    <Compile Include="DTO\WorkoutSummaryResponse.cs" />
+    <Compile Include="Exercise\ExercisePlan.cs" />
+    <Compile Include="Exercise\weeksWeekDay.cs" />
+    <Compile Include="Meal\MealPlan.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -87,6 +151,10 @@
     <ProjectReference Include="..\BootCamp.Resources\BootCamp.Resources.csproj">
       <Project>{961b7b6f-736b-4acf-bcc3-8bda3931c947}</Project>
       <Name>BootCamp.Resources</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BootCamp.Utils\BootCamp.Utils.csproj">
+      <Project>{04f4eb59-b58e-4b22-a75b-5e624e88242f}</Project>
+      <Name>BootCamp.Utils</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

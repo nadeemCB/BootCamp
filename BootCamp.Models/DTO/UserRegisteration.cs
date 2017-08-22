@@ -17,7 +17,10 @@ namespace BootCamp.Models.DTO
         public string Password { get; set; }
         [Required]
         [Phone(ErrorMessageResourceName ="PhoneNoError",ErrorMessageResourceType =typeof(Resources.StringResources))]
-        //[RegularExpression(@"^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$", ErrorMessage = "Not a valid number")]
         public string PhoneNumber { get; set; }
+        [Required]
+        public int TimeZoneOffSet { get; set; }
+        [Required(AllowEmptyStrings =false)]
+        public string DeviceToken { get; set; }
     }
 }

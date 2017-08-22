@@ -1,0 +1,67 @@
+2016-08-09 16:21:24.7896 INFO 6360635648478363909 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "loviza@citrusbits.com",
+  "Password": "abc123"
+}
+2016-08-09 16:21:54.3821 INFO 6360635648478363909 - Response: POST http://localhost:2108/api/User/LoginUser
+Internal Server Error
+2016-08-09 16:22:33.6512 INFO 63606356553650245621 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "loviza@citrusbits.com",
+  "Password": "abc123"
+}
+2016-08-09 16:26:21.3668 INFO 63606356781362865212 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "loviza@citrusbits.com",
+  "Password": "abc123"
+}
+2016-08-09 16:41:09.6430 INFO 6360635766963902667 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "loviza@citrusbits.com",
+  "Password": "abc123"
+}
+2016-08-09 16:46:26.1450 INFO 63606357986142254112 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "loviza@citrusbits.com",
+  "Password": "abc123"
+}
+2016-08-09 16:48:44.6809 INFO 6360635812467800227 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "loviza@citrusbits.com",
+  "Password": "abc123"
+}
+2016-08-09 17:02:10.7773 INFO 6360635893077439809 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "loviza@citrusbits.com",
+  "Password": "abc123"
+}
+2016-08-09 17:03:48.0456 INFO 6360635902804160375 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "loviza@citrusbits.com",
+  "Password": "abc123"
+}
+2016-08-09 17:05:01.6361 INFO 63606359101632155711 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "loviza@citrusbits.com",
+  "Password": "abc123"
+}
+2016-08-09 17:05:02.2894 INFO 63606359101632155711 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":true,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6Ikxvdml6YSAgVGFoaXIiLCJlbWFpbCI6Imxvdml6YUBjaXRydXNiaXRzLmNvbSIsImNlcnRzZXJpYWxudW1iZXIiOiI3NiIsImlzcyI6IkJvb3RDYW1wLkdyb3VwaWUiLCJhdWQiOiJodHRwOi8vNzguNDYuNDEuNTk6ODA4MS9hcGkiLCJleHAiOjE0NzA4MzA3MDIsIm5iZiI6MTQ3MDc0NDMwMn0.8dq-KdCA4Z2K5jZHTMY9_aHO2Einh8Uy1brgvAliGeg","ImageUrl":"http://localhost:2108/UserImages/99088604-e4e8-4d27-b12c-323999c5926f.png","Message":"Logged in."}
+2016-08-09 17:05:31.0930 INFO 63606359131093050112 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-09 17:06:35.0546 INFO 6360635919505162236 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-09 17:08:12.8357 INFO 6360635929283277578 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-09 17:14:18.5424 INFO 6360635965853940148 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-09 17:14:19.1008 INFO 6360635965853940148 - Response: GET http://localhost:2108/api/User/GetUserInfo
+{"FirstName":"Loviza ","LastName":"Tahir","ProfileImage":"http://localhost:2108/UserImages/99088604-e4e8-4d27-b12c-323999c5926f.png","BootCampInvitations":false,"MealReminder":false,"WorkoutReminder":false,"IsPublicProfile":true,"BootCamp":null}

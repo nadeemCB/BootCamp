@@ -1,0 +1,2577 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<weeks>
+  <week number="1">
+    <day name="Monday" sequence ="1">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Tuesday" sequence ="2">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Wednesday" sequence ="3">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Thursday" sequence ="4">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Friday" sequence ="5">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Saturday" sequence ="6">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Sunday" sequence ="7">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+  </week>
+  <week number="2">
+    <day name="Monday" sequence ="1">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Tuesday" sequence ="2">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Wednesday" sequence ="3">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Thursday" sequence ="4">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Friday" sequence ="5">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Saturday" sequence ="6">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Sunday" sequence ="7">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+  </week>
+  <week number="3">
+    <day name="Monday" sequence ="1">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Tuesday" sequence ="2">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Wednesday" sequence ="3">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Thursday" sequence ="4">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Friday" sequence ="5">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Saturday" sequence ="6">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Sunday" sequence ="7">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+  </week>
+  <week number="4">
+    <day name="Monday" sequence ="1">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Tuesday" sequence ="2">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Wednesday" sequence ="3">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Thursday" sequence ="4">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Friday" sequence ="5">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Saturday" sequence ="6">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Sunday" sequence ="7">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+  </week>
+  <week number="5">
+    <day name="Monday" sequence ="1">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Tuesday" sequence ="2">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Wednesday" sequence ="3">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Thursday" sequence ="4">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Friday" sequence ="5">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Saturday" sequence ="6">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Sunday" sequence ="7">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+  </week>
+  <week number="6">
+    <day name="Monday" sequence ="1">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Tuesday" sequence ="2">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Wednesday" sequence ="3">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Thursday" sequence ="4">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Friday" sequence ="5">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Saturday" sequence ="6">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+    <day name="Sunday" sequence ="7">
+      <workouts>
+        <workout sequence="1">
+          <name>Full Body</name>
+          <workoutdescription></workoutdescription>
+          <warmup>5</warmup>
+          <description>Treadmil, Elliptical, or Stationary Bike</description>
+          <excercises>
+            <excercise sequence="1">
+              <name>Bodyweight Squat</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With your legs shoulder width apart and feet straight, slowly squat down until your knees are parallel to the floor.  Slowly push through your heels to return to the starting position, contracting the thigh abd buttochs muscles.</description>
+            </excercise>
+            <excercise sequence="2">
+              <name>Alternating Forward Lunge</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>With you hands on you hips, step forward with your right leg keeping your left stationary until you reach approx. 90 degrees at both knees. Don't allow your knee to go forward beyond your toes as you come down. Using mainly the heel of your foot, push up and go back to the starting position.</description>
+            </excercise>
+            <excercise sequence="3">
+              <name>Alternating Side Lunges</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Start with your feet together. Step out to the side, sitting back on your heel and keeping both feet facing forward; the trailing leg should remain straight.  Pressing through the heel, stand back up, bring both feet together briefly before lunging with the other leg. Each lunge counts as one rep.</description>
+            </excercise>
+            <excercise sequence="4">
+              <name>Dumbbell Chest Press</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Extended you arms a little wider than shoulder width apart.  Slowly lowering the weight down towards your chest until your elbows have a 90 degree bend.  Extending your arms, until the weight is back to the starting position.</description>
+            </excercise>
+            <excercise sequence="5">
+              <name>Single Arm Dumbbell Row  (1 Set Right, 1 Set Left, Total 6 Sets)</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Holding a dumbbell in one hand with arm fully extended, bend at the hips until you are almost parallel to the floor.  Without moving your torso, row the dumbbell upward toward your shoulder until it touches your lower chest. Pause, then lower the dumbbell back to start.</description>
+            </excercise>
+            <excercise sequence="6">
+              <name>Alternating Dumbbell Bicep Curl</name>
+              <SetsRep>3 Sets x 10 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Stand with your feet shoulder width apart and your palms facing your sides. While holding your upper arm stationary against your torso, curl the right weight, slightly rotating the wrist so your palm is facing you. Contracting the biceps until your the dumbbell is at shoulder level. Slowly begin to bring the dumbbell back to the starting position and repeat the movement with the left hand. This equals one repetition.</description>
+            </excercise>
+            <excercise sequence="7">
+              <name>Tricep Dips</name>
+              <SetsRep>3 Sets x 12 Reps</SetsRep>
+              <time></time>
+              <image></image>
+              <description>Position your hands shoulder-width apart on a bench or chair with your legs extended out in front of you.  Slowly lower your body until your shoulder joints are below your elbows.  Push back up until your elbows are nearly straight but do not lock them out and repeat.</description>
+            </excercise>
+          </excercises>
+        </workout>
+      </workouts>
+    </day>
+  </week>
+</weeks>

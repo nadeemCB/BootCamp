@@ -12,6 +12,16 @@ namespace BootCamp.Models.DTO
         {
             this.Errors = new List<string>();
         }
+        public ErrorResponse(string error)
+        {
+            this.Errors = new List<string>();
+            this.AddError(error);
+        }
+        public ErrorResponse(List<string> errors)
+        {
+            this.Errors = new List<string>();
+            this.AddErrors(errors);
+        }
         public void AddError(string error)
         {
             if(Errors == null)

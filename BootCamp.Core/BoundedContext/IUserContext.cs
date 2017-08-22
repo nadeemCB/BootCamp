@@ -11,5 +11,10 @@ namespace BootCamp.Core.BoundedContext
     public interface IUserContext : IContext
     {
         IDbSet<User> Users { get; set; }
+        IDbSet<Measurement> Measurements { get; set; }
+        IDbSet<BootCampSummary> BootCampSummarys { get; set; }
+        IDbSet<UserBootCamp> UserBootCamps { get; set; }
+        IDbSet<UserNotificationSetting> UserNotificationSettings { get; set; }
+        
     }
 }

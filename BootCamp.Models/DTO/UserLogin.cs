@@ -15,5 +15,7 @@ namespace BootCamp.Models.DTO
         public string Email { get; set; }
         [StringLength(20, ErrorMessageResourceName = "PasswordLengthError", ErrorMessageResourceType = typeof(Resources.StringResources), MinimumLength = 6)]
         public string Password { get; set; }
+        [Required(AllowEmptyStrings =false)]
+        public string DeviceToken { get; set; }
     }
 }

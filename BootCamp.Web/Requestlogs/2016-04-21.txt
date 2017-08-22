@@ -1,0 +1,48 @@
+2016-04-21 16:17:50.5023 INFO 6359685227049639668 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01"
+}
+2016-04-21 16:17:50.6254 INFO 6359685227049639668 - Response: POST http://localhost:2108/api/User/LoginUser
+Unsupported Media Type
+2016-04-21 16:18:05.4473 INFO 63596852285447380312 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01"
+}
+2016-04-21 16:18:05.9637 INFO 63596852285447380312 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":true,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6InNhbXBsZSBzdHJpbmcgMSBzYW1wbGUgc3RyaW5nIDIiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMiIsImlzcyI6IkJvb3RDYW1wLkdyb3VwaWUiLCJhdWQiOiJodHRwOi8vNzguNDYuNDEuNTk6ODA4MS9hcGkiLCJleHAiOjE0NjEzMjM4ODUsIm5iZiI6MTQ2MTIzNzQ4NX0.X6uTdBY2wElTYBNg9XxkHcEpDfA5K8J3mzTiU6AFGsk","ImageUrl":"http://localhost:2108/Uploads/sample string 3","Message":"Logged in."}
+2016-04-21 16:20:00.1721 INFO 63596852400172180319 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-04-21T16:18:40.1488452+05:00"
+}
+2016-04-21 16:26:44.2585 INFO 63596852804255551510 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-04-21T16:18:40.1488452+05:00"
+}
+2016-04-21 16:26:44.3718 INFO 63596852804255551510 - Response: POST http://localhost:2108/api/User/LoginUser
+Bad Request
+2016-04-21 16:26:55.2863 INFO 6359685281528534447 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-04-21T16:18:40.1488452+05:00"
+}
+2016-04-21 16:27:55.7087 INFO 6359685281528534447 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error
+2016-04-21 16:34:39.7238 INFO 6359685327972384276 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-04-21T16:18:40.1488452+05:00"
+}
+2016-04-21 16:34:49.7050 INFO 6359685327972384276 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error

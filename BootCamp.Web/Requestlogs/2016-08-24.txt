@@ -1,0 +1,119 @@
+2016-08-24 13:20:24.3093 INFO 6360764162430639318 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:25:04.6597 INFO 6360764190465576819 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:26:12.9905 INFO 6360764197298750777 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:28:21.4977 INFO 6360764210149421996 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:32:43.8849 INFO 63607642363881949411 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:33:41.3732 INFO 6360764242136976056 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:34:34.8496 INFO 6360764247484513747 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:36:06.0273 INFO 6360764256602335335 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:44:48.3735 INFO 6360764308836955408 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:45:08.4463 INFO 6360764310844136306 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:46:41.6286 INFO 63607643201624642611 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 13:46:42.2943 INFO 63607643201624642611 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":true,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6Ik5hZGVlbSBLaGF3YXIiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjMyMTUwMTU1MDgiLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMzYiLCJpc3MiOiJCb290Q2FtcC5Hcm91cGllIiwiYXVkIjoiaHR0cDovLzc4LjQ2LjQxLjU5OjgwODEvYXBpIiwiZXhwIjoxNDcyMDI4NDYyLCJuYmYiOjE0NzIwMjg0MDJ9.Hq3jzwv6HUYGV3n2OzyJxsS6oI2JuMXINXECBNdj-0k","ImageUrl":"http://localhost:2108/UserImages/9c79f57a-7173-4bdb-af1d-443625228aae.png","Message":"Logged in."}
+2016-08-24 15:32:30.3611 INFO 6360764955035715556 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-24 15:32:30.9620 INFO 6360764955035715556 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":true,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6Ik5hZGVlbSBLaGF3YXIiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjMyMTUwMTU1MDgiLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMzYiLCJpc3MiOiJCb290Q2FtcC5Hcm91cGllIiwiYXVkIjoiaHR0cDovLzc4LjQ2LjQxLjU5OjgwODEvYXBpIiwiZXhwIjoxNDcyMDM0ODEwLCJuYmYiOjE0NzIwMzQ3NTB9.NAudz8OmPNfEoC1OjjaA64JWH-Hhz7rpll6y4p0FA_c","ImageUrl":"http://localhost:2108/UserImages/9c79f57a-7173-4bdb-af1d-443625228aae.png","Message":"Logged in."}
+2016-08-24 15:33:00.6054 INFO 6360764958060545907 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-24 15:33:00.7075 INFO 6360764958060545907 - Response: GET http://localhost:2108/api/User/GetUserInfo
+Bad Request
+2016-08-24 15:33:38.5606 INFO 6360764961856062706 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-24 15:33:49.7595 INFO 6360764961856062706 - Response: GET http://localhost:2108/api/User/GetUserInfo
+Bad Request
+2016-08-24 15:34:11.8732 INFO 6360764965187225278 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-24 15:37:41.4895 INFO 6360764986148657277 - Request: GET http://localhost:2108/api/User/GetUserInfo
+{
+  "Id": 1
+}
+2016-08-24 15:37:53.9940 INFO 6360764986148657277 - Response: GET http://localhost:2108/api/User/GetUserInfo
+{"FirstName":"Nadeem","LastName":"Khawar","ProfileImage":"http://localhost:2108/UserImages/9c79f57a-7173-4bdb-af1d-443625228aae.png","BootCampInvitations":true,"MealReminder":true,"WorkoutReminder":false,"IsPublicProfile":false,"BootCamp":{"Id":8,"IsOwner":true,"CampName":"Rr","Started":true,"StartDate":"2016-08-21T00:00:00"}}
+2016-08-24 17:20:05.1806 INFO 63607656005177681614 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234",
+  "PhoneNumber": "12345678"
+}
+2016-08-24 17:20:05.7058 INFO 63607656005177681614 - Response: POST http://localhost:2108/api/User/RegisterUser
+{"Message":"User account created."}
+2016-08-24 17:20:58.4472 INFO 6360765605844728349 - Request: POST http://localhost:2108/api/User/VerifyUser
+{
+  "Email": "nadeem.khawar@hotmail.com"
+}
+2016-08-24 17:20:58.4884 INFO 6360765605844728349 - Response: POST http://localhost:2108/api/User/VerifyUser
+{"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IiAiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjEyMzQ1Njc4IiwiY2VydHNlcmlhbG51bWJlciI6Ijc3IiwiaXNzIjoiQm9vdENhbXAuR3JvdXBpZSIsImF1ZCI6Imh0dHA6Ly83OC40Ni40MS41OTo4MDgxL2FwaSIsImV4cCI6MTQ3MjA0MTMxOCwibmJmIjoxNDcyMDQxMjU4fQ.r0JfWIEJ7RXwfOtLi2zMxqEariH8lesbcCHigV3VViU","Message":"User account verified."}
+2016-08-24 17:24:59.3739 INFO 63607656299373957916 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-08-24 17:24:59.4239 INFO 63607656299373957916 - Response: POST http://localhost:2108/api/User/CreateUserProfile
+{"Message":null}

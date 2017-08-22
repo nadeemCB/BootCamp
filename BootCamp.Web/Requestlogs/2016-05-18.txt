@@ -1,0 +1,105 @@
+2016-05-18 15:58:13.2561 INFO 63599183893250148415 - Request: POST http://localhost:2108/api/user/UserLogin
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01"
+}
+2016-05-18 15:58:13.3382 INFO 63599183893250148415 - Response: POST http://localhost:2108/api/user/UserLogin
+Not Found
+2016-05-18 16:00:07.3727 INFO 63599184007372258313 - Request: POST http://localhost:2108/api/user/UserLogin
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01"
+}
+2016-05-18 16:00:07.3727 INFO 63599184007372258313 - Response: POST http://localhost:2108/api/user/UserLogin
+Not Found
+2016-05-18 16:02:48.8610 INFO 63599184168861065522 - Request: POST http://localhost:2108/api/user/UserLogin
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01"
+}
+2016-05-18 16:02:48.8610 INFO 63599184168861065522 - Response: POST http://localhost:2108/api/user/UserLogin
+Not Found
+2016-05-18 16:03:21.2614 INFO 63599184201260423217 - Request: POST http://localhost:2108/api/user/loginuser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01"
+}
+2016-05-18 16:03:31.3898 INFO 63599184201260423217 - Response: POST http://localhost:2108/api/user/loginuser
+{"ProfileCreated":true,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IkZpcnN0IGxhc3QiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMiIsImlzcyI6IkJvb3RDYW1wLkdyb3VwaWUiLCJhdWQiOiJodHRwOi8vNzguNDYuNDEuNTk6ODA4MS9hcGkiLCJleHAiOjE0NjM2NTU4MTEsIm5iZiI6MTQ2MzU2OTQxMX0.SFmd5yJhkMdrbBN7PLBQ-6M2QSQab0X5Xld4DQotPhk","ImageUrl":"http://localhost:2108/UserImages/sample string 3","Message":"Logged in."}
+2016-05-18 16:09:41.5063 INFO 63599184581506345039 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-05-18T16:06:52.6599952+05:00",
+  "IsPrivate": true
+}
+2016-05-18 16:09:54.2105 INFO 63599184581506345039 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Bad Request
+2016-05-18 16:11:27.1867 INFO 63599184687186757916 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-05-22T16:06:52.6599952+05:00",
+  "IsPrivate": true
+}
+2016-05-18 16:11:44.7716 INFO 63599184687186757916 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error
+2016-05-18 16:12:30.6252 INFO 63599184750625222213 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-05-22T16:06:52.6599952+05:00",
+  "IsPrivate": true
+}
+2016-05-18 16:13:24.6229 INFO 63599184750625222213 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error
+2016-05-18 16:15:56.8192 INFO 6359918495681622319 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-05-22T16:06:52.6599952+05:00",
+  "IsPrivate": true
+}
+2016-05-18 16:19:26.7502 INFO 63599185166747194510 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-05-22T16:06:52.6599952+05:00",
+  "IsPrivate": true
+}
+2016-05-18 16:20:02.8053 INFO 63599185166747194510 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error
+2016-05-18 16:24:09.5688 INFO 6359918544956637157 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{
+  "Name": "sample string 1",
+  "About": "sample string 2",
+  "ImageUrl": "sample string 3",
+  "StartDate": "2016-05-22T16:06:52.6599952+05:00",
+  "IsPrivate": true
+}
+2016-05-18 16:24:21.6656 INFO 6359918544956637157 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{"Message":"BootCamp Created Successfully."}
+2016-05-18 17:10:11.9712 INFO 6359918821196824346 - Request: POST http://localhost:2108/api/BootCamp/GetBootCamps
+{
+  "PageNumber": 0,
+  "PageSize": 2
+}
+2016-05-18 17:10:12.0273 INFO 6359918821196824346 - Response: POST http://localhost:2108/api/BootCamp/GetBootCamps
+Method Not Allowed
+2016-05-18 17:11:14.5219 INFO 63599188274521933119 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamps?PageNumber=0&PageSize=2
+{
+  "PageNumber": 0,
+  "PageSize": 2
+}
+2016-05-18 17:12:16.5246 INFO 6359918833652145486 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamps?PageNumber=0&PageSize=2
+{
+  "PageNumber": 0,
+  "PageSize": 2
+}
+2016-05-18 17:12:26.7264 INFO 6359918833652145486 - Response: GET http://localhost:2108/api/BootCamp/GetBootCamps?PageNumber=0&PageSize=2
+{"TotalRecord":0,"BootCamps":[]}

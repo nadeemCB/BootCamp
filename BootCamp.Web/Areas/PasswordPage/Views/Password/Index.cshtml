@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+@using BootCamp.Web.Areas.PasswordPage.Models
+@model PasswordModel
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Boot Camp Groupie | Reset Password</title>
+    <link type="text/css" href="~/style.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <div class="reset_header">
+        <img src="~/images/logo.png" />
+    </div>
+    <div class="reset_pw_bg">
+        <h2>Reset my Password</h2>
+        <h3>Please enter a new password for your Boot Camp Groupie account.</h3>
+        <div class="error_txt">
+            <p style="display:@(Model.HasError == true ? "block":"none")">@Model.ErrorMessage</p>
+        </div>
+        @using (Html.BeginForm("ChangePassword", "Password", FormMethod.Post))
+        {
+            @Html.HiddenFor(m=>m.AuthKey)
+            @Html.PasswordFor(m=>m.Password, new { @placeholder = "New Password", @maxlength = "20" })
+            @Html.PasswordFor(m=>m.ReEnterPassword, new { @placeholder = "Confirm New Password", @maxlength = "20" })
+            <input type="submit" value="SUBMIT" class="green" />
+        }
+    </div>
+
+</body>
+</html>
+

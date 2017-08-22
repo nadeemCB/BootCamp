@@ -1,0 +1,24 @@
+2016-08-03 11:26:07.7612 INFO 6360582036776128979 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234",
+  "PhoneNumber": "nadeem01"
+}
+2016-08-03 11:26:07.8612 INFO 6360582036776128979 - Response: POST http://localhost:2108/api/User/RegisterUser
+Unsupported Media Type
+2016-08-03 11:28:25.3333 INFO 63605820505333376132 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234",
+  "PhoneNumber": "nadeem01"
+}
+2016-08-03 11:28:25.4180 INFO 63605820505333376132 - Response: POST http://localhost:2108/api/User/RegisterUser
+Bad Request
+2016-08-03 11:29:12.0396 INFO 63605820552039689731 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234",
+  "PhoneNumber": "1234567890"
+}
+2016-08-03 11:29:12.4716 INFO 63605820552039689731 - Response: POST http://localhost:2108/api/User/RegisterUser
+Bad Request

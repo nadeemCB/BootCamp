@@ -1,0 +1,8 @@
+2016-07-22 18:22:58.9347 INFO 63604808578928721728 - Request: POST http://localhost:2108/api/User/RegisterUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01",
+  "PhoneNumber": "11111111"
+}
+2016-07-22 18:23:36.0027 INFO 63604808578928721728 - Response: POST http://localhost:2108/api/User/RegisterUser
+Internal Server Error

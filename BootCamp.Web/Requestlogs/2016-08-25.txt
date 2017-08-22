@@ -1,0 +1,31 @@
+2016-08-25 18:08:36.9143 INFO 63607745316909361111 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "abcd1234"
+}
+2016-08-25 18:08:37.6267 INFO 63607745316909361111 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":true,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6InNhbXBsZSBzdHJpbmcgMSBzYW1wbGUgc3RyaW5nIDIiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjEyMzQ1Njc4IiwiY2VydHNlcmlhbG51bWJlciI6Ijc3IiwiaXNzIjoiQm9vdENhbXAuR3JvdXBpZSIsImF1ZCI6Imh0dHA6Ly83OC40Ni40MS41OTo4MDgxL2FwaSIsImV4cCI6MTQ3MjIxNjkxNywibmJmIjoxNDcyMTMwNTE3fQ.8WTfYSl25HYb0ecHQ5JcHlkxn7I0IuUglT7I_cpXMWU","ImageUrl":"http://localhost:2108/UserImages/sample string 3","Message":"Logged in."}
+2016-08-25 18:10:34.3907 INFO 6360774543439074638 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{"About":"Shznz","Name":"Bzbzz","StartDate":"2017-03-05T00:00:00","IsPrivate":"false","ImageUrl":"3a6bc44a-68de-4932-aa5d-fcfd1718ded9.png"}
+2016-08-25 18:10:49.0422 INFO 6360774543439074638 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error
+2016-08-25 18:11:19.4873 INFO 6360774547948638477 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{"About":"Shznz","Name":"Bzbzz","StartDate":"2017-03-05T00:00:00","IsPrivate":"false","ImageUrl":"3a6bc44a-68de-4932-aa5d-fcfd1718ded9.png"}
+2016-08-25 18:12:04.6613 INFO 6360774547948638477 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+Internal Server Error
+2016-08-25 18:12:08.8714 INFO 63607745528871400029 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{"About":"Shznz","Name":"Bzbzz","StartDate":"2017-03-05T00:00:00","IsPrivate":"false","ImageUrl":"3a6bc44a-68de-4932-aa5d-fcfd1718ded9.png"}
+2016-08-25 18:13:09.6070 INFO 6360774558960454807 - Request: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{"About":"Shznz","Name":"Bzbzz","StartDate":"2017-03-05T00:00:00","IsPrivate":"false","ImageUrl":"3a6bc44a-68de-4932-aa5d-fcfd1718ded9.png"}
+2016-08-25 18:13:26.3365 INFO 6360774558960454807 - Response: POST http://localhost:2108/api/BootCamp/CreateBootCamp
+{"Id":10,"Message":"BootCamp Created Successfully."}
+2016-08-25 18:58:27.4761 INFO 63607748307476182211 - Request: POST http://localhost:2108/api/Notification/GetMyNotifications
+{"About":"Shznz","Name":"Bzbzz","StartDate":"2017-03-05T00:00:00","IsPrivate":"false","ImageUrl":"3a6bc44a-68de-4932-aa5d-fcfd1718ded9.png"}
+2016-08-25 18:58:27.5386 INFO 63607748307476182211 - Response: POST http://localhost:2108/api/Notification/GetMyNotifications
+Method Not Allowed
+2016-08-25 18:58:41.2206 INFO 63607748321220654710 - Request: GET http://localhost:2108/api/Notification/GetMyNotifications
+{"About":"Shznz","Name":"Bzbzz","StartDate":"2017-03-05T00:00:00","IsPrivate":"false","ImageUrl":"3a6bc44a-68de-4932-aa5d-fcfd1718ded9.png"}
+2016-08-25 19:01:52.3242 INFO 6360774851231925716 - Request: GET http://localhost:2108/api/Notification/GetMyNotifications
+{"About":"Shznz","Name":"Bzbzz","StartDate":"2017-03-05T00:00:00","IsPrivate":"false","ImageUrl":"3a6bc44a-68de-4932-aa5d-fcfd1718ded9.png"}
+2016-08-25 19:01:53.7219 INFO 6360774851231925716 - Response: GET http://localhost:2108/api/Notification/GetMyNotifications
+{"Notifications":[],"Message":null}

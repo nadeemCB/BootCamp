@@ -1,0 +1,274 @@
+2016-04-19 15:19:06.7215 INFO 6359667594671652239 - Request: GET http://localhost:2108/api/BootCamp/GetBootCamps
+
+2016-04-19 15:19:06.8771 INFO 6359667594671652239 - Response: GET http://localhost:2108/api/BootCamp/GetBootCamps
+[{"Id":1,"Name":"Name 0","About":"About 0","ImageUrl":null,"MemebersLimit":15,"RegisteredMemebers":5,"StartDate":"2016-05-19T15:19:06.7675577+05:00"},{"Id":2,"Name":"Name 1","About":"About 1","ImageUrl":null,"MemebersLimit":15,"RegisteredMemebers":4,"StartDate":"2016-06-19T15:19:06.7675577+05:00"},{"Id":3,"Name":"Name 2","About":"About 2","ImageUrl":null,"MemebersLimit":15,"RegisteredMemebers":6,"StartDate":"2016-07-19T15:19:06.7675577+05:00"},{"Id":4,"Name":"Name 3","About":"About 3","ImageUrl":null,"MemebersLimit":15,"RegisteredMemebers":4,"StartDate":"2016-08-19T15:19:06.7675577+05:00"},{"Id":5,"Name":"Name 4","About":"About 4","ImageUrl":null,"MemebersLimit":15,"RegisteredMemebers":13,"StartDate":"2016-09-19T15:19:06.7675577+05:00"},{"Id":6,"Name":"Name 5","About":"About 5","ImageUrl":null,"MemebersLimit":15,"RegisteredMemebers":13,"StartDate":"2016-10-19T15:19:06.7675577+05:00"},{"Id":7,"Name":"Name 6","About":"About 6","ImageUrl":null,"MemebersLimit":15,"RegisteredMemebers":4,"StartDate":"2016-11-19T15:19:06.7675577+05:00"},{"Id":8,"Name":"Name 7","About":"About 7","ImageUrl":null,"MemebersLimit":15,"RegisteredMemebers":13,"StartDate":"2016-12-19T15:19:06.7675577+05:00"},{"Id":9,"Name":"Name 8","About":"About 8","ImageUrl":null,"MemebersLimit":15,"RegisteredMemebers":8,"StartDate":"2017-01-19T15:19:06.7675577+05:00"}]
+2016-04-19 16:22:44.7236 INFO 63596679764720678314 - Request: POST http://localhost:2108/api/User/ForgotPassword
+{
+  "Email": "nadeem.khawar@hotmail.com"
+}
+2016-04-19 16:23:14.8024 INFO 63596679764720678314 - Response: POST http://localhost:2108/api/User/ForgotPassword
+{"Message":null}
+2016-04-19 16:24:24.9882 INFO 63596679864987232219 - Request: POST http://localhost:2108/Api/user/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01"
+}
+2016-04-19 16:24:25.0512 INFO 63596679864987232219 - Response: POST http://localhost:2108/Api/user/LoginUser
+{"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IiAiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMiIsImlzcyI6IkJvb3RDYW1wLkdyb3VwaWUiLCJhdWQiOiJodHRwOi8vNzguNDYuNDEuNTk6ODA4MS9hcGkiLCJleHAiOjE0NjExNTE0NjUsIm5iZiI6MTQ2MTA2NTA2NX0.32xfAzXA3iGqda1E1aiOSRX5lFrBy_8ORq4I6VDcWyI","Message":"Logged in."}
+2016-04-19 16:26:19.6919 INFO 6359667997969196145 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:26:19.7139 INFO 6359667997969196145 - Response: POST http://localhost:2108/api/User/CreateUserProfile
+{"Message":"Authorization has been denied for this request."}
+2016-04-19 16:27:16.6257 INFO 63596680036624760822 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:27:16.6257 INFO 63596680036624760822 - Response: POST http://localhost:2108/api/User/CreateUserProfile
+{"Message":"Authorization has been denied for this request."}
+2016-04-19 16:28:46.6043 INFO 63596680126601337512 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:28:46.6043 INFO 63596680126601337512 - Response: POST http://localhost:2108/api/User/CreateUserProfile
+{"Message":"Authorization has been denied for this request."}
+2016-04-19 16:29:11.4379 INFO 63596680151437923432 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:30:37.2407 INFO 63596680237239784944 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:31:59.5885 INFO 6359668031958853839 - Request: GET http://localhost:2108/Api/user/getuser
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:32:10.0885 INFO 6359668031958853839 - Response: GET http://localhost:2108/Api/user/getuser
+{"Message":"An error has occurred.","ExceptionMessage":"Object reference not set to an instance of an object.","ExceptionType":"System.NullReferenceException","StackTrace":"   at BootCamp.Web.Controllers.UserController.GetUser() in C:\\CBProjects\\BootCamp\\BootCamp\\BootCamp.Web\\Controllers\\UserController.cs:line 57\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()\r\n   at System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()\r\n   at System.Web.Http.Dispatcher.HttpControllerDispatcher.<SendAsync>d__1.MoveNext()"}
+2016-04-19 16:35:09.4401 INFO 6359668050943613928 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:38:30.7295 INFO 6359668071072652206 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:39:13.0180 INFO 6359668075301701779 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:40:41.4857 INFO 6359668084148473797 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:42:00.9038 INFO 6359668092090184367 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 16:42:13.4993 INFO 6359668092090184367 - Response: POST http://localhost:2108/api/User/CreateUserProfile
+OK
+2016-04-19 16:44:19.1477 INFO 6359668105914473167 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 17:02:52.9748 INFO 63596682172970804611 - Request: POST http://localhost:2108/Api/User/LoginUser
+{
+  "Email": "nadeem.khawar@hotmail.com",
+  "Password": "nadeem01"
+}
+2016-04-19 17:02:58.5984 INFO 63596682172970804611 - Response: POST http://localhost:2108/Api/User/LoginUser
+{"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6IiAiLCJlbWFpbCI6Im5hZGVlbS5raGF3YXJAaG90bWFpbC5jb20iLCJjZXJ0c2VyaWFsbnVtYmVyIjoiMiIsImlzcyI6IkJvb3RDYW1wLkdyb3VwaWUiLCJhdWQiOiJodHRwOi8vNzguNDYuNDEuNTk6ODA4MS9hcGkiLCJleHAiOjE0NjExNTM3NzMsIm5iZiI6MTQ2MTA2NzM3M30.MhtWmYK8pCIed4fIbG4WImvx8FsKomaud8VTi8DuYfA","Message":"Logged in."}
+2016-04-19 17:04:24.4641 INFO 63596682264463160530 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 17:06:29.6040 INFO 63596682389601046011 - Request: POST http://localhost:2108/api/User/CreateUserProfile
+{
+  "FirstName": "sample string 1",
+  "LastName": "sample string 2",
+  "ImageName": "sample string 3",
+  "Measurment": {
+    "Height": 1,
+    "Weight": 2,
+    "GoalWeight": 3,
+    "Biceps": 4,
+    "Waist": 5,
+    "Hips": 6,
+    "Thighs": 7,
+    "Chest": 8,
+    "UpperArm": 9
+  }
+}
+2016-04-19 17:06:47.5448 INFO 63596682389601046011 - Response: POST http://localhost:2108/api/User/CreateUserProfile
+OK

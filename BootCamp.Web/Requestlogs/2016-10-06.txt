@@ -1,0 +1,91 @@
+2016-10-06 18:15:20.0990 INFO 6361137452009508897 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 18:15:38.0235 INFO 6361137452009508897 - Response: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+Not Found
+2016-10-06 18:17:38.0476 INFO 63611374658046593910 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 18:52:08.9763 INFO 6361137672897330656 - Request: POST http://localhost:2108/api/User/LoginUser
+{
+  "Email": "mqureshi1122@yahoo.com",
+  "Password": "123456"
+}
+2016-10-06 18:52:09.5998 INFO 6361137672897330656 - Response: POST http://localhost:2108/api/User/LoginUser
+{"ProfileCreated":true,"Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6Ik1vaHNpbiBBaG1hZCIsImVtYWlsIjoibXF1cmVzaGkxMTIyQHlhaG9vLmNvbSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL21vYmlsZXBob25lIjoiMzQ1NTA5MjA0NiIsImNlcnRzZXJpYWxudW1iZXIiOiIzOCIsImlzcyI6IkJvb3RDYW1wLkdyb3VwaWUiLCJhdWQiOiJodHRwOi8vNzguNDYuNDEuNTk6ODA4MS9hcGkiLCJleHAiOjE0NzU4NDgzMjksIm5iZiI6MTQ3NTc2MTkyOX0.iWlQWOKlI2f5l1nPw-qhiofQvsCDI4cUcpIt2kA2ggI","ImageUrl":"http://localhost:2108/UserImages/db979f48-09f8-4891-9a8b-a6df7d593517.png","Message":"Logged in."}
+2016-10-06 18:52:33.7489 INFO 63611376753747911318 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 18:57:56.6655 INFO 6361137707666223239 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 18:59:06.6330 INFO 63611377146631008211 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 18:59:09.3753 INFO 63611377146631008211 - Response: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+Not Found
+2016-10-06 19:00:57.1906 INFO 6361137725718767129 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:18:16.4411 INFO 6361137829644116427 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:18:26.2024 INFO 6361137829644116427 - Response: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+Not Found
+2016-10-06 19:18:35.6610 INFO 6361137831566106229 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:31:30.8648 INFO 63611379090864836510 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:32:15.8429 INFO 6361137913583990209 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:33:51.2052 INFO 6361137913583990209 - Response: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+Not Found
+2016-10-06 19:34:29.2474 INFO 63611379269245408810 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:36:02.9452 INFO 63611379269245408810 - Response: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+Not Found
+2016-10-06 19:36:12.8852 INFO 63611379372884246721 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:36:53.5615 INFO 63611379372884246721 - Response: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+Not Found
+2016-10-06 19:36:55.0925 INFO 63611379415091563924 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:38:11.4937 INFO 6361137949149171489 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:41:36.0834 INFO 6361137969608346766 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:42:47.2221 INFO 6361137969608346766 - Response: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+Not Found
+2016-10-06 19:46:33.7546 INFO 6361137999375463486 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:54:13.6403 INFO 63611380453637342510 - Request: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{
+  "BootCampId": 1
+}
+2016-10-06 19:54:32.8141 INFO 63611380453637342510 - Response: POST http://localhost:2108/api/BootCamp/LeaveBootCamp
+{"Message":"Removed from bootcamp."}
